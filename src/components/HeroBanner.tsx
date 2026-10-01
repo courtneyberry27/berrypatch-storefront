@@ -33,7 +33,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onScrollToProducts, onSe
             {/* Headline with rustic Fraunces font */}
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-farm font-black text-wood-900 tracking-tight leading-[1.15]">
               Fresh From Our Patch, <br />
-              <span className="text-barn-600 underline decoration-wood-300 decoration-wavy decoration-2">
+              <span className="text-barn-600">
                 Weighed by the Half-Pound 🍓
               </span>
             </h1>
